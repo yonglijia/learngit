@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-add new line
-sdfsdfsdfds
-=======
->>>>>>> parent of 7237528... second commit
-dfasldjflksjdf
